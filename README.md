@@ -12,3 +12,4 @@ The program will automatically detect the word and cropped it to a file
 In progress:
 
 tesseract detect word of each image and delete the one with no text.
+![alt text](https://i.ibb.co/YBf5k74/feng-shui-elements.jpg)
